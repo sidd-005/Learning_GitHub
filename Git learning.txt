@@ -11,3 +11,5 @@ This is the learning about Git and Github:
 5: That is why Git or Github is called as version control system.
 
 6: In history we can see what are all the history that gone through our project.
+
+7: This is the final edit for my understanding.
