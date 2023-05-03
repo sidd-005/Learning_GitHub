@@ -1,0 +1,13 @@
+This is the learning about Git and Github:
+
+1: Creating a new repository.
+
+2: Naming the repository.
+
+3: Creating a new file or uploading files in repository.
+
+4: Commit is used for making changes and it is visible from initial commit to last updated change that is commit.
+
+5: That is why Git or Github is called as version control system.
+
+6: In history we can see what are all the history that gone through our project.
