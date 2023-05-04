@@ -23,4 +23,4 @@ Part 3:
 2: Forking is a process of copying others repository into our github account.
 
 Part 4:
-Merge conflicts
+Resolving merge conflicts.
